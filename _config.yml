@@ -1,0 +1,61 @@
+---
+# Document indicator
+# Generic style configuration for a project
+
+# Color Palette
+colors:
+  primary: "#007bff"
+  secondary: "#6c757d"
+  success: "#28a745"
+  info: "#17a2b8"
+  warning: "#ffc107"
+  danger: "#dc3545"
+  light: "#f8f9fa"
+  dark: "#343a40"
+  text: "#212529"
+  background: "#ffffff"
+
+# Typography settings
+typography:
+  font_family:
+    - "Arial"
+    - "Helvetica"
+    - "sans-serif"
+  font_size:
+    base: "16px"
+    h1: "2.5rem"
+    h2: "2rem"
+    h3: "1.75rem"
+  line_height: 1.5
+  font_weight:
+    regular: 400
+    bold: 700
+
+# Spacing system
+spacing:
+  base: "1rem"
+  sm: "0.5rem"
+  md: "1rem"
+  lg: "1.5rem"
+  xl: "3rem"
+
+# Breakpoints for responsive design
+breakpoints:
+  sm: "576px"
+  md: "768px"
+  lg: "992px"
+  xl: "1200px"
+
+# Z-index management
+z_index:
+  base: 1
+  dropdown: 1000
+  sticky: 1020
+  fixed: 1030
+  modal: 1040
+
+# Border and radius settings
+borders:
+  radius: "0.25rem"
+  width: "1px"
+  color: "#dee2e6"
