@@ -1,4 +1,5 @@
-# Amal
+
+
 
 ## Info 
 
@@ -14,8 +15,8 @@
 
 | Refreshing math video clips | Date of entry |
 | :-- | :-- |
-| [List of children books](https://muslimmatters.org/2023/11/19/from-the-muslimmatters-bookshelf-palestinian-literature) | Oct 4 |
-
+| [List of children books](https://muslimmatters.org/2023/11/19/from-the-muslimmatters-bookshelf-palestinian-literature) | 2025-10-04 |
+| Blog by [Teacher Mr. Aissat](https://www.facebook.com/mr.abdelmalek.aissat.blog/) | 2025-10-04 |
 
 
 ## About
