@@ -1,11 +1,9 @@
-# bank
-
-## Math
+# Resources
 
 | Refreshing math video clips | Date of entry |
 | :-- | :-- |
 | Multiplication |  July 12 |
-
+| [List of children books](https://muslimmatters.org/2023/11/19/from-the-muslimmatters-bookshelf-palestinian-literature) | Oct 4 |
 
 <details>
 
