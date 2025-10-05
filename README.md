@@ -5,10 +5,11 @@
 
 | Age | Grade | Level in Palestine |
 | :-- | :-- | :-- |
-| 11-12 | 8 | Mid school 2 |
-| 13-14 | 9 | Mid school 3 |
-| 15-16 | 10 | Mid school 4 |
-| 16-18 | 11-12 | Mid school 5 |
+| 9-10 | 7 | Middle school 1 |
+| 11-12 | 8 | Middle school 2 |
+| 13-14 | 9 | Middle school 3 |
+| 15-16 | 10 | Middle school 4 |
+| 16-18 | 11-12 | Middle school 5 |
 
 
 ## Resources
@@ -17,7 +18,7 @@
 | :-- | :-- |
 | [List of children books](https://muslimmatters.org/2023/11/19/from-the-muslimmatters-bookshelf-palestinian-literature) | 2025-10-04 |
 | Blog by [Teacher Mr. Aissat](https://www.facebook.com/mr.abdelmalek.aissat.blog/) | 2025-10-04 |
-
+| [YT's practices](practices) | 2025-10-04 |
 
 ## About
 
