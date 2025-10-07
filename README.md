@@ -1,8 +1,11 @@
 
 
 
-## Info 
+## Information Centre 
 
+<details>
+
+<summary>Levels </summary>
 | Age | Grade | Level in Palestine |
 | :-- | :-- | :-- |
 | 9-10 | 7 | Middle school 1 |
@@ -11,8 +14,10 @@
 | 15-16 | 10 | Middle school 4 |
 | 16-18 | 11-12 | Middle school 5 |
 
+</details>
 
-## Resources
+
+## External Resources
 
 | Refreshing math video clips | Date of entry |
 | :-- | :-- |
@@ -31,6 +36,9 @@ To sustain education in dire situations...
 | Context |	Everyday conversation, future aspirations | Religious, spiritual, and poetic contexts |
 | Feeling	| Aspiration, optimism | Pleading, reliance on a higher power |
 
+<details>
+
+<summary>More...</summary>
 
 ```
 1. Empowerment (تَمْكِين - Tamkeen)
@@ -74,3 +82,6 @@ The "in between" is the very concept of the future itself—a space that educati
 
 So, what lies in between? Empowerment, Aspiration, and the very notion of The Future itself. It's the active, dynamic space where learning turns into believing and believing turns into doing.
 ```
+
+</details>
+
