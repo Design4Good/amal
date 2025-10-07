@@ -82,7 +82,7 @@ So, what lies in between? Empowerment, Aspiration, and the very notion of The Fu
 
 <details>
 
-<summary>Levels </summary>
+<summary>Grade–Age Equivalency in the Palestinian Education System </summary>
 
 
 | Age | Grade | Level in Palestine |
