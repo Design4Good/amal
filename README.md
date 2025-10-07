@@ -1,30 +1,6 @@
 
 
 
-## Information Centre 
-
-<details>
-
-<summary>Levels </summary>
-| Age | Grade | Level in Palestine |
-| :-- | :-- | :-- |
-| 9-10 | 7 | Middle school 1 |
-| 11-12 | 8 | Middle school 2 |
-| 13-14 | 9 | Middle school 3 |
-| 15-16 | 10 | Middle school 4 |
-| 16-18 | 11-12 | Middle school 5 |
-
-</details>
-
-
-## External Resources
-
-| Refreshing math video clips | Date of entry |
-| :-- | :-- |
-| [List of children books](https://muslimmatters.org/2023/11/19/from-the-muslimmatters-bookshelf-palestinian-literature) | 2025-10-04 |
-| Blog by [Teacher Mr. Aissat](https://www.facebook.com/mr.abdelmalek.aissat.blog/) | 2025-10-04 |
-| [YT's practices](practices) | 2025-10-04 |
-| [Teach Palestine Org](https://teachpalestine.org/resources-gaza/) | 2025-10-06 |
 
 ## About
 
@@ -84,4 +60,35 @@ So, what lies in between? Empowerment, Aspiration, and the very notion of The Fu
 ```
 
 </details>
+
+
+
+## Information Centre 
+
+### External Resources
+
+| Refreshing math video clips | Date of entry |
+| :-- | :-- |
+| [List of children books](https://muslimmatters.org/2023/11/19/from-the-muslimmatters-bookshelf-palestinian-literature) | 2025-10-04 |
+| Blog by [Teacher Mr. Aissat](https://www.facebook.com/mr.abdelmalek.aissat.blog/) | 2025-10-04 |
+| [YT's practices](practices) | 2025-10-04 |
+| [Teach Palestine Org](https://teachpalestine.org/resources-gaza/) | 2025-10-06 |
+
+### Technical details
+
+<details>
+
+<summary>Levels </summary>
+
+
+| Age | Grade | Level in Palestine |
+| :-- | :-- | :-- |
+| 9-10 | 7 | Middle school 1 |
+| 11-12 | 8 | Middle school 2 |
+| 13-14 | 9 | Middle school 3 |
+| 15-16 | 10 | Middle school 4 |
+| 16-18 | 11-12 | Middle school 5 |
+
+</details>
+
 
