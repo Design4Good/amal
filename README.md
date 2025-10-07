@@ -19,6 +19,7 @@
 | [List of children books](https://muslimmatters.org/2023/11/19/from-the-muslimmatters-bookshelf-palestinian-literature) | 2025-10-04 |
 | Blog by [Teacher Mr. Aissat](https://www.facebook.com/mr.abdelmalek.aissat.blog/) | 2025-10-04 |
 | [YT's practices](practices) | 2025-10-04 |
+| [Teach Palestine Org](https://teachpalestine.org/resources-gaza/) | 2025-10-06 |
 
 ## About
 
