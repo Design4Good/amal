@@ -2,6 +2,8 @@
 
 
 
+# English-tutoring
+
 ## About
 
 To sustain education in dire situations...
@@ -94,5 +96,23 @@ So, what lies in between? Empowerment, Aspiration, and the very notion of The Fu
 | 16-18 | 11-12 | Middle school 5 |
 
 </details>
+
+
+<details>
+
+  <summary>Principles </summary>
+  
+```
+Safety and trustworthiness – should foster a sense of security and predictability.
+Choice and control – should have autonomy over their environment.
+Collaboration and mutuality – should foster a sense of connection and encourage community engagement.
+Empowerment and voice – should support self-expression and personal growth.
+Cultural sensitivity – should reflect and respect diverse backgrounds, ensuring inclusivity.
+Flexibility and adaptability – should be modular to fit different emotional needs.
+Before moving on to wh
+```  
+</details>
+
+
 
 
