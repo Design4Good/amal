@@ -103,14 +103,15 @@ So, what lies in between? Empowerment, Aspiration, and the very notion of The Fu
   <summary>Principles </summary>
   
 ```
-Safety and trustworthiness – should foster a sense of security and predictability.
-Choice and control – should have autonomy over their environment.
-Collaboration and mutuality – should foster a sense of connection and encourage community engagement.
-Empowerment and voice – should support self-expression and personal growth.
-Cultural sensitivity – should reflect and respect diverse backgrounds, ensuring inclusivity.
-Flexibility and adaptability – should be modular to fit different emotional needs.
-Before moving on to wh
-```  
+Safety and predictability – Fostering a sense of security by eliminating aggressive language and unexpected disruptions while maintaining a consistent experience.
+Trust and transparency – Building user confidence through clear communication of policies, data usage, and expectations.
+Choice and control – Empowering users by allowing them to customize their interactions and manage their preferences.
+Empowerment and agency – Supporting user autonomy and providing clear paths to rectify mistakes.
+Collaboration and community – Providing safe, inclusive spaces and tools that foster user interaction.
+Cultural and historical sensitivity – Ensuring content respects diverse identities and acknowledges varied experiences.
+Flexibility and adaptability – Designing content that accommodates various user needs and preferences.
+```
+
 </details>
 
 
